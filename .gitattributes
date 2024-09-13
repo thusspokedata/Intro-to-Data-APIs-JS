@@ -12,3 +12,6 @@ views/* linguist-vendored
 routes/* linguist-vendored
 jasmine/* linguist-vendored
 tests/* linguist-vendored
+module1/* linguist-vendored
+module2/* linguist-vendored
+module3/* linguist-vendored
